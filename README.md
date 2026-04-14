@@ -21,12 +21,6 @@ A temperature difference across TEG modules generates voltage via the Seebeck ef
 ## Tools Used
 - Basic circuit design & thermal setup
 
-## Project Images
-_Add chimney setup and module placement_
-
-## Code
-Not required (hardware-focused project)
-
 ## Applications
 - Waste heat recovery systems
 - Off-grid power generation
